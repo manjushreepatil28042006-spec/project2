@@ -1,3 +1,3 @@
 #NEW PROJECT
 
-This project wae created on the local system created by Manjushree Patil.
+This project was created on the local system by Manjushree Patil.
